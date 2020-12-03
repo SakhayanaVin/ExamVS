@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469632450120",
+    "project_id": "river-blade-295809",
+    "storage_bucket": "river-blade-295809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469632450120:android:a61e02edf70c300b53a27d",
+        "android_client_info": {
+          "package_name": "com.example.examvs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469632450120-1fpdnq8ac5t17e5id03f7nk94q79vnn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CnBPAL2okGiMA9hinLfDHAr0b6Wdvuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469632450120-1fpdnq8ac5t17e5id03f7nk94q79vnn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
